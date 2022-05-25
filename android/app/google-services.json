@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "491104141997",
+    "project_id": "sutamaapp",
+    "storage_bucket": "sutamaapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:491104141997:android:c4bf135d295026686dfc24",
+        "android_client_info": {
+          "package_name": "com.example.sinaruecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "491104141997-20sas9se13pp9k87p3s9kg5avppion9h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sinaruecommerce",
+            "certificate_hash": "2e07e510595134ec23110601ec87822884d2b04b"
+          }
+        },
+        {
+          "client_id": "491104141997-vkdj383ng13hluvi9cdkl20a5dflva9n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCwEEhXEnNKqBaBsspG7rdDQpe4tuvWKc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "491104141997-vkdj383ng13hluvi9cdkl20a5dflva9n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
